@@ -14,4 +14,5 @@ La Sociedad Nacional de Agricultura, es una organización gremial que reúne a g
 
 **Desarrollo**
 
-A medida que transcurre el paso del tiempo, se han presentado distintas adversidades para los productores, en cuanto a la producción y venta de sus productos; hoy en día podemos ver esta gran problemática con la crisis sanitatria nacional y mundial, por lo que sus medidas, protocolos, leyes y rendimiento se han visto sumamente modificadas y alteradas. Por parte de la ODEPA es el organismo que se encarga de controla, estimular e informar a los productores de empresas privadas, lo cual se crea el SNA, como una organización privada para la agrupación de este fundamental sector econonómico.
+A medida que transcurre el paso del tiempo, se han presentado distintas adversidades para los productores, en cuanto al rendimiento y ventas; hoy en día podemos apreciar esta gran problemática con la crisis sanitatria mundial del covid-19, por lo que sus medidas, protocolos y leyes se han visto sumamente alteradas. La ODEPA es el organismo que se encarga de controlar, estimular e informar a los productores de empresas, por su parte el SNA, aporta como una organización privada para la agrupación de este fundamental sector econónómico.
+
