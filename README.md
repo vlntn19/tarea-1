@@ -16,3 +16,11 @@ La Sociedad Nacional de Agricultura, es una organización gremial que reúne a g
 
 A medida que transcurre el paso del tiempo, se han presentado distintas adversidades para los productores, en cuanto al rendimiento y ventas; hoy en día podemos apreciar esta gran problemática con la crisis sanitatria mundial del covid-19, por lo que sus medidas, protocolos y leyes se han visto sumamente alteradas. La ODEPA es el organismo que se encarga de controlar, estimular e informar a los productores de empresas, por su parte el SNA, aporta como una organización privada para la agrupación de este fundamental sector econónómico.
 
+**Avance de datos**
+
+ODEPA:
+https://www.fucoa.cl/covid19/
+https://covid19.minagri.gob.cl/
+
+SNA
+https://www.sna.cl/noticias/destacado/protocolos-sanitarios-covid-19/
