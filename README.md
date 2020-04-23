@@ -20,5 +20,6 @@ A medida que transcurre el paso del tiempo, se han presentado distintas adversid
 
 [*ODEPA*](https://www.fucoa.cl/covid19/)
 
-[*ODEPA*](https://covid19.minagri.gob.cl/)
+[*ODEPA*](https://covid19.minagri.gob.cl)
+
 [*SNA*](https://www.sna.cl/noticias/destacado/protocolos-sanitarios-covid-19/)
