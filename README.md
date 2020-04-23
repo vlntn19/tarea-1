@@ -24,5 +24,6 @@ A medida que transcurre el paso del tiempo, se han presentado distintas adversid
 
 [*SNA protocolos sanitarios*](https://www.sna.cl/noticias/destacado/protocolos-sanitarios-covid-19/)
 
-**Finalidad**
+**Finalidad** 
+
 Comparación de obligaciones y efectividad de cada organismo en cuanto a la crisis sanitaria del covid-19; evaluando las visitas, descargas, aprobación y críticas, de los usuarios de cada página web.
