@@ -18,8 +18,12 @@ A medida que transcurre el paso del tiempo, se han presentado distintas adversid
 
 **Datos**
 
-[*ODEPA*](https://www.fucoa.cl/covid19/)
+[*ODEPA recomendaciones para ferias libres*](https://www.fucoa.cl/covid19/)
 
-[*ODEPA*](https://covid19.minagri.gob.cl)
+[*ODEPA recomendaciones para agricultura*](https://covid19.minagri.gob.cl)
 
-[*SNA*](https://www.sna.cl/noticias/destacado/protocolos-sanitarios-covid-19/)
+[*SNA protocolos sanitarios*](https://www.sna.cl/noticias/destacado/protocolos-sanitarios-covid-19/)
+
+**Finalidad**
+
+Comparación de obligacines y efectividad de cada organismo en cuanto a la crisis sanitaria del covid; evaluando las visitas, descargas, aprobación y críticas, de los usuarios de cada página web
